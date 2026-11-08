@@ -11,6 +11,7 @@ echo "Hello World! - " . date("d/m/Y H:i:s");
 ?>
 </h1>
 <p>Aplicação publicada no Render.</p>
-<img src="D:\Desktop\+\audiovisual\pics\gimliLaugh.gif">
+<h1>Você é nosso 100000 cliente e acabou de ganhar um iPhone Pro Max!</h1>
+<button>Resgatar prêmio</button>
 </body>
 </html>
