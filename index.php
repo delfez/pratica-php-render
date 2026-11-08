@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Minha página PHP</title>
+<title>Página PHP de Davi Delfes</title>
 </head>
 <body>
 <h1>
@@ -11,7 +11,9 @@ echo "Hello World! - " . date("d/m/Y H:i:s");
 ?>
 </h1>
 <p>Aplicação publicada no Render.</p>
-<h1>Você é nosso 100000 cliente e acabou de ganhar um iPhone Pro Max!</h1>
-<button>Resgatar prêmio</button>
+<h2>Hospedagem de aplicações é um método de fazer um computador servir alguma aplicação, <br>
+utilizando computadores ou máquinas virtuais dedicadas à ficarem rodando o processo <br>
+responsável pela execução da aplicação. Hoje em dia é muito comum contratar empresas que fornecem<br>
+computadores ou máquinas virtuais dedicadas à hospedagem de serviços.</h2>
 </body>
 </html>
